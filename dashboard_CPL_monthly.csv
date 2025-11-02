@@ -1,0 +1,101 @@
+Year,Month,Product,Channel,Platform,Spend,Lead,Clicks,Impressions,Avg_CPL,Avg_CTR,Variance,CPL_Status,CTR_Change,Recommendation
+2025,1,Dairy,Facebook,Lead Form,3121.6099999999997,266.0,0.0,125554,11.735375939849623,0.0,-8.264624060150377,Below Benchmark,,✓ CPL ổn định - tiếp tục theo dõi
+2025,1,Dairy,Facebook,Lead Web,3135.52,0.0,0.0,242808,3135.52,0.0,3115.52,Above Benchmark,,✓ Theo dõi thêm kỳ tới
+2025,1,Dairy,Facebook,Other,0.0,0.0,0.0,0,0.0,0.0,-20.0,Below Benchmark,,✓ CPL ổn định - tiếp tục theo dõi
+2025,1,Life,Facebook,Lead Form,6646.51,506.0,0.0,401996,13.135395256916997,0.0,-6.864604743083003,Below Benchmark,,✓ CPL ổn định - tiếp tục theo dõi
+2025,1,Life,Facebook,Lead Web,8179.86,0.0,0.0,897436,8179.86,0.0,8159.86,Above Benchmark,,✓ Theo dõi thêm kỳ tới
+2025,1,Life,Facebook,Other,0.0,1.0,0.0,0,0.0,0.0,-20.0,Below Benchmark,,✓ CPL ổn định - tiếp tục theo dõi
+2025,1,Life,Google,Lead Form,1204.6,23.0,330.0,8692,52.373913043478254,3.7965945697192818,32.373913043478254,Above Benchmark,,✓ Theo dõi thêm kỳ tới
+2025,1,Life,Google,Lead Web,3333.29,175.72,4052.0,327771,18.96932620077396,1.2362289525308827,-1.0306737992260402,Below Benchmark,,✓ CPL ổn định - tiếp tục theo dõi
+2025,1,Life,Google,Other,8045.43,80.0,2116.0,19037,100.567875,11.11519672217261,80.567875,Above Benchmark,,✓ Theo dõi thêm kỳ tới
+2025,1,Sucrose,Facebook,Lead Form,1792.24,325.0,0.0,150692,5.514584615384615,0.0,-14.485415384615385,Below Benchmark,,✓ CPL ổn định - tiếp tục theo dõi
+2025,1,Sucrose,Facebook,Lead Web,3476.17,0.0,0.0,478478,3476.17,0.0,3456.17,Above Benchmark,,✓ Theo dõi thêm kỳ tới
+2025,1,Sucrose,Facebook,Other,0.0,0.0,0.0,0,0.0,0.0,-20.0,Below Benchmark,,✓ CPL ổn định - tiếp tục theo dõi
+2025,2,Dairy,Facebook,Lead Form,8534.73,438.0,0.0,415691,19.48568493150685,0.0,-0.5143150684931506,Below Benchmark,,✓ CPL ổn định - tiếp tục theo dõi
+2025,2,Dairy,Facebook,Lead Web,763.42,2.0,0.0,67771,381.71,0.0,361.71,Above Benchmark,,✓ Theo dõi thêm kỳ tới
+2025,2,Dairy,Google,Lead Web,2115.77,100.81,7141.0,905139,20.98769963297292,0.7889395993322572,0.9876996329729195,Above Benchmark,,✓ Theo dõi thêm kỳ tới
+2025,2,Life,Facebook,Lead Form,8162.63,468.0,0.0,535923,17.441517094017094,0.0,-2.558482905982906,Below Benchmark,,✓ CPL ổn định - tiếp tục theo dõi
+2025,2,Life,Facebook,Lead Web,7100.45,0.0,0.0,761429,7100.45,0.0,7080.45,Above Benchmark,,✓ Theo dõi thêm kỳ tới
+2025,2,Life,Google,Lead Form,851.82,28.0,388.0,10165,30.42214285714286,3.8170191834727003,10.422142857142859,Above Benchmark,0.005379719477112577,🎯 CTR ổn định - nên thử nhóm audience mới
+2025,2,Life,Google,Lead Web,11643.47,666.74,12036.0,1157481,17.463284038755734,1.039844282541139,-2.5367159612442656,Below Benchmark,-0.15885784715500573,✓ CPL ổn định - tiếp tục theo dõi
+2025,2,Life,Google,Other,4351.94,57.0,1498.0,11430,76.34982456140351,13.10586176727909,56.34982456140351,Above Benchmark,0.17909400030100198,✓ Theo dõi thêm kỳ tới
+2025,2,Sucrose,Facebook,Lead Form,9477.64,802.0,0.0,726713,11.817506234413964,0.0,-8.182493765586036,Below Benchmark,,✓ CPL ổn định - tiếp tục theo dõi
+2025,2,Sucrose,Facebook,Lead Web,4030.49,0.0,0.0,589801,4030.49,0.0,4010.49,Above Benchmark,,✓ Theo dõi thêm kỳ tới
+2025,2,Sucrose,Google,Lead Web,7989.71,598.36,12497.0,1782525,13.352680660471956,0.7010841362673735,-6.647319339528044,Below Benchmark,,✓ CPL ổn định - tiếp tục theo dõi
+2025,3,Dairy,Facebook,Lead Form,7080.03,289.0,0.0,484870,24.498373702422146,0.0,4.498373702422146,Above Benchmark,,✓ Theo dõi thêm kỳ tới
+2025,3,Dairy,Facebook,Lead Web,1074.76,0.0,0.0,116143,1074.76,0.0,1054.76,Above Benchmark,,✓ Theo dõi thêm kỳ tới
+2025,3,Dairy,Google,Lead Web,4042.9,240.59,13543.0,2940796,16.804106571345443,0.4605215730706924,-3.195893428654557,Below Benchmark,-0.41627778164454066,✓ CPL ổn định - tiếp tục theo dõi
+2025,3,Life,Facebook,Lead Form,8208.34,470.0,0.0,503677,17.46455319148936,0.0,-2.5354468085106383,Below Benchmark,,✓ CPL ổn định - tiếp tục theo dõi
+2025,3,Life,Facebook,Lead Web,5352.44,0.0,0.0,400449,5352.44,0.0,5332.44,Above Benchmark,,✓ Theo dõi thêm kỳ tới
+2025,3,Life,Google,Lead Form,1391.67,46.0,512.0,11610,30.253695652173914,4.409991386735572,10.253695652173914,Above Benchmark,0.15534954758162622,✓ Theo dõi thêm kỳ tới
+2025,3,Life,Google,Lead Web,9076.49,495.55,9225.0,1330221,18.315992331752597,0.6934937878743457,-1.6840076682474034,Below Benchmark,-0.33307919318495727,✓ CPL ổn định - tiếp tục theo dõi
+2025,3,Life,Google,Other,2178.88,39.0,1533.0,12488,55.86871794871795,12.275784753363228,35.86871794871795,Above Benchmark,-0.0633363168828992,🎯 CTR ổn định - nên thử nhóm audience mới
+2025,3,Sucrose,Facebook,Lead Form,10177.52,759.0,0.0,1092253,13.409117259552042,0.0,-6.590882740447958,Below Benchmark,,✓ CPL ổn định - tiếp tục theo dõi
+2025,3,Sucrose,Facebook,Lead Web,5383.97,0.0,0.0,625177,5383.97,0.0,5363.97,Above Benchmark,,✓ Theo dõi thêm kỳ tới
+2025,3,Sucrose,Google,Lead Web,7392.84,560.42,14297.0,3242267,13.191606295278543,0.4409568983677161,-6.808393704721457,Below Benchmark,-0.3710356923558349,✓ CPL ổn định - tiếp tục theo dõi
+2025,4,Dairy,Facebook,Lead Form,7984.02,319.0,0.0,566279,25.028275862068966,0.0,5.028275862068966,Above Benchmark,,✓ Theo dõi thêm kỳ tới
+2025,4,Dairy,Facebook,Lead Web,2070.33,0.0,0.0,272641,2070.33,0.0,2050.33,Above Benchmark,,✓ Theo dõi thêm kỳ tới
+2025,4,Dairy,Google,Lead Web,6336.44,325.0,14074.0,4252104,19.49673846153846,0.3309890821108797,-0.5032615384615404,Below Benchmark,-0.28127344848604696,✓ CPL ổn định - tiếp tục theo dõi
+2025,4,Life,Facebook,Lead Form,9032.95,478.0,0.0,553174,18.897384937238495,0.0,-1.1026150627615046,Below Benchmark,,✓ CPL ổn định - tiếp tục theo dõi
+2025,4,Life,Facebook,Lead Web,3236.31,0.0,0.0,222639,3236.31,0.0,3216.31,Above Benchmark,,✓ Theo dõi thêm kỳ tới
+2025,4,Life,Google,Lead Form,2755.6,119.0,797.0,15026,23.156302521008403,5.304139491547984,3.156302521008403,Above Benchmark,0.20275506829828327,✓ Theo dõi thêm kỳ tới
+2025,4,Life,Google,Lead Web,7064.15,336.91,6718.0,953303,20.967469057018192,0.7047077372042256,0.9674690570181923,Above Benchmark,0.01617022318866379,🎯 CTR ổn định - nên thử nhóm audience mới
+2025,4,Life,Google,Other,1654.03,47.0,1143.0,11238,35.19212765957447,10.1708489054992,15.192127659574467,Above Benchmark,-0.17147057317759928,⚠️ CTR giảm >10% - cần thay nội dung quảng cáo
+2025,4,Sucrose,Facebook,Lead Form,13188.83,789.0,0.0,1563145,16.715880861850444,0.0,-3.2841191381495562,Below Benchmark,,✓ CPL ổn định - tiếp tục theo dõi
+2025,4,Sucrose,Facebook,Lead Web,1030.44,0.0,0.0,140848,1030.44,0.0,1010.44,Above Benchmark,,✓ Theo dõi thêm kỳ tới
+2025,4,Sucrose,Google,Lead Web,7989.88,566.39,18835.0,4198470,14.106675612210669,0.44861580528144773,-5.893324387789331,Below Benchmark,0.017368833421321783,✓ CPL ổn định - tiếp tục theo dõi
+2025,5,Dairy,Facebook,Lead Form,7544.85,396.0,0.0,517859,19.052651515151517,0.0,-0.947348484848483,Below Benchmark,,✓ CPL ổn định - tiếp tục theo dõi
+2025,5,Dairy,Facebook,Lead Web,2025.22,0.0,0.0,239796,2025.22,0.0,2005.22,Above Benchmark,,✓ Theo dõi thêm kỳ tới
+2025,5,Dairy,Google,Lead Web,3645.48,212.19,7075.0,1614838,17.18026297186484,0.438124443442624,-2.8197370281351617,Below Benchmark,0.3236824630241264,✓ CPL ổn định - tiếp tục theo dõi
+2025,5,Life,Facebook,Lead Form,5345.05,266.0,0.0,280443,20.094172932330828,0.0,0.09417293233082802,Above Benchmark,,✓ Theo dõi thêm kỳ tới
+2025,5,Life,Facebook,Lead Web,4139.18,1.0,0.0,322801,4139.18,0.0,4119.18,Above Benchmark,,✓ Theo dõi thêm kỳ tới
+2025,5,Life,Google,Lead Form,4068.06,120.0,1295.0,17303,33.9005,7.484251285904178,13.900500000000001,Above Benchmark,0.4110208258719721,✓ Theo dõi thêm kỳ tới
+2025,5,Life,Google,Lead Web,7820.27,322.18,8550.0,1205807,24.272984046185364,0.7090686983903726,4.272984046185364,Above Benchmark,0.006188325962544594,🎯 CTR ổn định - nên thử nhóm audience mới
+2025,5,Life,Google,Other,1473.08,80.0,1343.0,13754,18.4135,9.76443216518831,-1.586500000000001,Below Benchmark,-0.0399589792442151,✓ CPL ổn định - tiếp tục theo dõi
+2025,5,Sucrose,Facebook,Lead Form,12253.89,781.0,0.0,1169639,15.69,0.0,-4.3100000000000005,Below Benchmark,,✓ CPL ổn định - tiếp tục theo dõi
+2025,5,Sucrose,Facebook,Lead Web,2838.66,0.0,0.0,399771,2838.66,0.0,2818.66,Above Benchmark,,✓ Theo dõi thêm kỳ tới
+2025,5,Sucrose,Google,Lead Web,10586.42,654.59,20604.0,5957807,16.172596587176706,0.34583194789626454,-3.827403412823294,Below Benchmark,-0.2291133218561031,✓ CPL ổn định - tiếp tục theo dõi
+2025,6,Dairy,Facebook,Lead Form,7741.5,403.0,0.0,529896,19.20967741935484,0.0,-0.7903225806451601,Below Benchmark,,✓ CPL ổn định - tiếp tục theo dõi
+2025,6,Dairy,Facebook,Lead Web,2622.43,0.0,0.0,265617,2622.43,0.0,2602.43,Above Benchmark,,✓ Theo dõi thêm kỳ tới
+2025,6,Dairy,Google,Lead Web,7515.93,321.24,23693.0,6175342,23.39661935001868,0.3836710582183141,3.3966193500186783,Above Benchmark,-0.12428748507258536,⚠️ CTR giảm >10% - cần thay nội dung quảng cáo
+2025,6,Life,Facebook,Lead Form,7135.13,440.0,0.0,359860,16.216204545454545,0.0,-3.783795454545455,Below Benchmark,,✓ CPL ổn định - tiếp tục theo dõi
+2025,6,Life,Facebook,Lead Web,3656.28,0.0,0.0,272032,3656.28,0.0,3636.28,Above Benchmark,,✓ Theo dõi thêm kỳ tới
+2025,6,Life,Google,Lead Form,3007.17,93.0,873.0,33934,32.33516129032258,2.5726410090175045,12.335161290322581,Above Benchmark,-0.6562594024785338,⚠️ CTR giảm >10% - cần thay nội dung quảng cáo
+2025,6,Life,Google,Lead Web,7194.3,249.21,7948.0,1464892,28.868424220536898,0.542565595279379,8.868424220536898,Above Benchmark,-0.23481942368767006,⚠️ CTR giảm >10% - cần thay nội dung quảng cáo
+2025,6,Life,Google,Other,504.76,26.99,666.0,7036,18.70174138569841,9.46560545764639,-1.2982586143015915,Below Benchmark,-0.030603592967472615,✓ CPL ổn định - tiếp tục theo dõi
+2025,6,Sucrose,Facebook,Lead Form,14892.29,740.0,0.0,1150651,20.124716216216218,0.0,0.12471621621621765,Above Benchmark,,✓ Theo dõi thêm kỳ tới
+2025,6,Sucrose,Facebook,Lead Web,3082.95,0.0,0.0,400060,3082.95,0.0,3062.95,Above Benchmark,,✓ Theo dõi thêm kỳ tới
+2025,6,Sucrose,Google,Lead Web,15352.94,656.18,15628.0,2827208,23.39745191868085,0.5527714975339628,3.3974519186808507,Above Benchmark,0.5983818178064095,✓ Theo dõi thêm kỳ tới
+2025,7,Dairy,Facebook,Lead Form,6559.33,408.0,0.0,477961,16.076789215686276,0.0,-3.9232107843137243,Below Benchmark,,✓ CPL ổn định - tiếp tục theo dõi
+2025,7,Dairy,Facebook,Lead Web,2024.51,0.0,0.0,208108,2024.51,0.0,2004.51,Above Benchmark,,✓ Theo dõi thêm kỳ tới
+2025,7,Dairy,Google,Lead Web,8969.06,263.77,39859.0,4084876,34.00333623990598,0.9757701335364892,14.003336239905977,Above Benchmark,1.5432466500542312,✓ Theo dõi thêm kỳ tới
+2025,7,Life,Facebook,Lead Form,13238.49,764.0,0.0,885168,17.327866492146597,0.0,-2.6721335078534025,Below Benchmark,,✓ CPL ổn định - tiếp tục theo dõi
+2025,7,Life,Facebook,Lead Web,852.5699999999999,0.0,0.0,65407,852.5699999999999,0.0,832.5699999999999,Above Benchmark,,✓ Theo dõi thêm kỳ tới
+2025,7,Life,Google,Lead Form,5249.9,209.0,3829.0,332927,25.11913875598086,1.1501019743066798,5.11913875598086,Above Benchmark,-0.5529489072609064,⚠️ CTR giảm >10% - cần thay nội dung quảng cáo
+2025,7,Life,Google,Lead Web,6843.96,198.99,8561.0,631787,34.39348710990502,1.3550452921633398,14.393487109905017,Above Benchmark,1.4974773630192995,✓ Theo dõi thêm kỳ tới
+2025,7,Life,Google,Other,1948.29,77.8,1345.0,13045,25.042287917737788,10.310463779225756,5.042287917737788,Above Benchmark,0.08925560286234857,🎯 CTR ổn định - nên thử nhóm audience mới
+2025,7,Sucrose,Facebook,Lead Form,8841.67,247.0,0.0,529719,35.79623481781377,0.0,15.796234817813769,Above Benchmark,,✓ Theo dõi thêm kỳ tới
+2025,7,Sucrose,Facebook,Lead Web,6777.82,0.0,0.0,974792,6777.82,0.0,6757.82,Above Benchmark,,✓ Theo dõi thêm kỳ tới
+2025,7,Sucrose,Google,Lead Web,10972.82,412.24,23158.0,5818733,26.617552881816415,0.3979904216261512,6.617552881816415,Above Benchmark,-0.28000914771894814,⚠️ CTR giảm >10% - cần thay nội dung quảng cáo
+2025,8,Dairy,Facebook,Lead Form,1283.45,31.0,0.0,78525,41.40161290322581,0.0,21.40161290322581,Above Benchmark,,✓ Theo dõi thêm kỳ tới
+2025,8,Dairy,Facebook,Lead Web,1032.83,0.0,0.0,107248,1032.83,0.0,1012.8299999999999,Above Benchmark,,✓ Theo dõi thêm kỳ tới
+2025,8,Dairy,Google,Lead Web,5020.5,144.43,19069.0,1033674,34.76078377068476,1.8447789148222746,14.76078377068476,Above Benchmark,0.8905875999055555,✓ Theo dõi thêm kỳ tới
+2025,8,Life,Facebook,Lead Form,10612.59,884.0,0.0,717489,12.005192307692308,0.0,-7.994807692307692,Below Benchmark,,✓ CPL ổn định - tiếp tục theo dõi
+2025,8,Life,Facebook,Lead Web,3480.13,0.0,0.0,321828,3480.13,0.0,3460.13,Above Benchmark,,✓ Theo dõi thêm kỳ tới
+2025,8,Life,Google,Lead Web,7123.84,319.76,16787.0,401380,22.278709031773833,4.1823209925756135,2.2787090317738325,Above Benchmark,2.086480589810033,✓ Theo dõi thêm kỳ tới
+2025,8,Life,Google,Other,2150.28,103.2,1397.0,13822,20.83604651162791,10.10707567645782,0.8360465116279094,Above Benchmark,-0.01972637769968577,🎯 CTR ổn định - nên thử nhóm audience mới
+2025,8,Sucrose,Facebook,Lead Form,9948.22,290.0,0.0,740365,34.30420689655172,0.0,14.304206896551719,Above Benchmark,,✓ Theo dõi thêm kỳ tới
+2025,8,Sucrose,Facebook,Lead Web,4951.72,0.0,0.0,667288,4951.72,0.0,4931.72,Above Benchmark,,✓ Theo dõi thêm kỳ tới
+2025,8,Sucrose,Google,Lead Web,12946.25,488.2,44176.0,6173647,26.518332650553052,0.7155575950487613,6.518332650553052,Above Benchmark,0.7979266740266275,✓ Theo dõi thêm kỳ tới
+2025,9,Dairy,Facebook,Lead Form,2122.59,164.0,0.0,119482,12.942621951219513,0.0,-7.057378048780487,Below Benchmark,,✓ CPL ổn định - tiếp tục theo dõi
+2025,9,Dairy,Facebook,Lead Web,362.56,0.0,0.0,37183,362.56,0.0,342.56,Above Benchmark,,✓ Theo dõi thêm kỳ tới
+2025,9,Dairy,Google,Lead Web,971.79,18.3,1737.0,177850,53.10327868852458,0.9766657295473713,33.10327868852458,Above Benchmark,-0.47057844075507393,⚠️ CTR giảm >10% - cần thay nội dung quảng cáo
+2025,9,Life,Facebook,Lead Form,18157.18,965.0,0.0,1244396,18.815730569948187,0.0,-1.1842694300518133,Below Benchmark,,✓ CPL ổn định - tiếp tục theo dõi
+2025,9,Life,Facebook,Lead Web,224.87,0.0,0.0,11225,224.87,0.0,204.87,Above Benchmark,,✓ Theo dõi thêm kỳ tới
+2025,9,Life,Google,Lead Web,5982.52,307.6,19666.0,437049,19.449024707412224,4.49972428720807,-0.5509752925877756,Below Benchmark,0.07589166283408333,✓ CPL ổn định - tiếp tục theo dõi
+2025,9,Life,Google,Other,1383.01,63.0,1166.0,10696,21.952539682539683,10.901271503365745,1.9525396825396832,Above Benchmark,0.07857820128504911,🎯 CTR ổn định - nên thử nhóm audience mới
+2025,9,Sucrose,Facebook,Lead Form,5852.43,452.0,0.0,474494,12.947853982300886,0.0,-7.052146017699114,Below Benchmark,,✓ CPL ổn định - tiếp tục theo dõi
+2025,9,Sucrose,Facebook,Lead Web,4864.05,0.0,0.0,579004,4864.05,0.0,4844.05,Above Benchmark,,✓ Theo dõi thêm kỳ tới
+2025,9,Sucrose,Google,Lead Web,13233.0,502.57,40374.0,6206269,26.33066040551565,0.6505357727807157,6.330660405515651,Above Benchmark,-0.09086874727898686,🎯 CTR ổn định - nên thử nhóm audience mới
+2025,10,Life,Facebook,Lead Form,0.0,1.0,0.0,0,0.0,0.0,-20.0,Below Benchmark,,✓ CPL ổn định - tiếp tục theo dõi
+2025,10,Sucrose,Facebook,Lead Form,0.0,0.0,0.0,0,0.0,0.0,-20.0,Below Benchmark,,✓ CPL ổn định - tiếp tục theo dõi

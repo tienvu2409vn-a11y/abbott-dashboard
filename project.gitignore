@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Dash cache
+*.pyc
+.DS_Store
+
+# Environment variables
+.env
+
+# Data files (nếu muốn giữ bí mật)
+ABBOTT-_-LEAD-GEN-DASHBOARD-2024-2025.xlsx
+dashboard_CPL_daily.csv
+dashboard_CPL_monthly.csv
+
+# IDE
+.vscode/
+.idea/
