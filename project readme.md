@@ -12,14 +12,13 @@ Dashboard phân tích hiệu suất CPL (Cost Per Lead) cho sản phẩm Ensure 
 ## Cài đặt
 
 pip install -r requirements.txt
+```bash
 
-text
 
 ## Chạy local
 
 python app_dash.py
-
-text
+```
 
 Truy cập: http://localhost:8050
 
@@ -35,6 +34,7 @@ Truy cập: http://localhost:8050
 
 ## Cấu trúc dự án
 abbott-dashboard/
+```
 ├── app_dash.py # File chính chạy dashboard
 ├── data_processing.py # Xử lý dữ liệu từ Excel
 ├── dashboard_CPL_daily.csv # Dữ liệu CPL theo ngày
@@ -42,8 +42,6 @@ abbott-dashboard/
 ├── requirements.txt # Danh sách thư viện
 ├── .gitignore # File loại trừ khi push GitHub
 └── README.md # File này
-
-text
 
 ## Tác giả
 Vũ Thủy Tiên
